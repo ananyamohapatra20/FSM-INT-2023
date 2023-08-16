@@ -6,9 +6,11 @@ solution offers real-time processing, intuitive visualizations, and adaptive
 learning, revolutionizing traditional manufacturing quality control practices 
 and ensuring consistent product excellence.
 Explanatory Data Analysis(EDA):
+
 Directory Structure
 In the directory structure for the dataset, which includes images of different piston 
 components categorized into "Defected1", "Defected2", and "Normal".
+
 Piston_Dataset/
 ├── Defected1/
 │ ├── kumda_component1.png
@@ -22,6 +24,7 @@ Piston_Dataset/
  ├── kumda_component1.png
  ├── kumda_component2.png
  └── ...
+ 
 About the dataset:
 I created plots to visualize the number of elements in each dataset folder, providing an 
 overview of the dataset. The dataset contains total 285 images. There are three groups of 
